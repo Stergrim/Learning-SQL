@@ -18,7 +18,7 @@
 | genre_id   | `INT PRIMARY KEY AUTO_INCREMENT` |
 | name_genre | `VARCHAR(30)`                    |
 
-Запрос:
+*Запрос:*
 
 ```mysql
 CREATE TABLE genre(

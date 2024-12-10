@@ -28,6 +28,7 @@ SELECT * FROM book;
 *Результат:*
 
 ```mysql
+Affected rows: 5
 Query result:
 +---------+-----------------------+------------------+--------+--------+
 | book_id | title                 | author           | price  | amount |
@@ -59,6 +60,7 @@ SELECT * FROM book;
 *Результат:*
 
 ```mysql
+Affected rows: 2
 Query result:
 +---------+-----------------------+------------------+--------+--------+
 | book_id | title                 | author           | price  | amount |

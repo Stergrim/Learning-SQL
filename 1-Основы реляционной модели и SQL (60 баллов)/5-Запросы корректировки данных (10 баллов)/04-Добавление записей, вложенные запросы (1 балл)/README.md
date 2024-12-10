@@ -23,6 +23,8 @@ SELECT * FROM book;
 *Результат:*
 
 ```mysql
+Affected rows: 2
+
 Query result:
 +---------+-----------------------+------------------+--------+--------+
 | book_id | title                 | author           | price  | amount |

@@ -34,6 +34,7 @@ SELECT * FROM book;
 *Результат:*
 
 ```mysql
+Affected rows: 3
 Query result:
 +---------+-----------------------+------------------+--------+--------+-----+
 | book_id | title                 | author           | price  | amount | buy |
